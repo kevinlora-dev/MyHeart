@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Music, Volume2, VolumeX } from 'lucide-react';
 
-const SONG_PATH = '/audio/song.mp3';
+const SONG_PATH = `${import.meta.env.BASE_URL}audio/song.mp3`;
 
 export default function MusicButton() {
   const [playing, setPlaying] = useState(false);
