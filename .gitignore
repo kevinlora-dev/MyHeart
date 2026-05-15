@@ -1,0 +1,12 @@
+# Local IDE / tool config
+.claude/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor swap files
+*.swp
+*.swo

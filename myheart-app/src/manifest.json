@@ -1,0 +1,127 @@
+{
+  "Campeonato": {
+    "photos": [
+      "media/Campeonato/Campeonato1.JPG.jpg",
+      "media/Campeonato/Campeonato2.HEIC.jpg",
+      "media/Campeonato/Campeonato2.JPG.jpg",
+      "media/Campeonato/IMG_6097.HEIC.jpg",
+      "media/Campeonato/IMG_6099.HEIC.jpg",
+      "media/Campeonato/IMG_6100.HEIC.jpg",
+      "media/Campeonato/UDDR0307.JPG.jpg",
+      "media/Campeonato/WASZ1875.JPG.jpg"
+    ],
+    "videos": []
+  },
+  "Carro": {
+    "photos": [
+      "media/Carro/Carro.jpg",
+      "media/Carro/Carro2.jpg",
+      "media/Carro/Carro3.jpg"
+    ],
+    "videos": []
+  },
+  "Casa": {
+    "photos": [
+      "media/Casa/Casa1.JPG.jpg",
+      "media/Casa/Casa2.HEIC.jpg",
+      "media/Casa/IMG_5771.HEIC.jpg",
+      "media/Casa/IMG_5947.HEIC.jpg",
+      "media/Casa/IMG_6159.HEIC.jpg",
+      "media/Casa/IMG_6162.HEIC.jpg",
+      "media/Casa/IMG_6417.HEIC.jpg",
+      "media/Casa/IMG_6877.HEIC.jpg",
+      "media/Casa/XANR9187.JPG.jpg"
+    ],
+    "videos": [
+      "media/Casa/IMG_5941.MOV.mp4"
+    ]
+  },
+  "Cine": {
+    "photos": [
+      "media/Cine/Pelicula.jpg",
+      "media/Cine/Pelicula2.jpg"
+    ],
+    "videos": []
+  },
+  "Hotel": {
+    "photos": [
+      "media/Hotel/Hotel1.HEIC.jpg",
+      "media/Hotel/Hotel2.HEIC.jpg",
+      "media/Hotel/Hotel3.HEIC.jpg",
+      "media/Hotel/Hotel4.HEIC.jpg",
+      "media/Hotel/Hotel5.HEIC.jpg",
+      "media/Hotel/Hotel6.HEIC.jpg"
+    ],
+    "videos": []
+  },
+  "Pacasmayo": {
+    "photos": [
+      "media/Pacasmayo/Pacas0.HEIC.jpg",
+      "media/Pacasmayo/Pacas1.JPG.jpg",
+      "media/Pacasmayo/Pacas18.HEIC.jpg",
+      "media/Pacasmayo/Pacas19.HEIC.jpg",
+      "media/Pacasmayo/Pacas20.HEIC.jpg",
+      "media/Pacasmayo/Pacas21.HEIC.jpg",
+      "media/Pacasmayo/Pacas22.HEIC.jpg",
+      "media/Pacasmayo/Pacas23.HEIC.jpg"
+    ],
+    "videos": [
+      "media/Pacasmayo/Pacas10.MOV.mp4",
+      "media/Pacasmayo/Pacas11.MOV.mp4",
+      "media/Pacasmayo/Pacas12.MOV.mp4",
+      "media/Pacasmayo/Pacas13.MOV.mp4",
+      "media/Pacasmayo/Pacas14.MOV.mp4",
+      "media/Pacasmayo/Pacas15.MOV.mp4",
+      "media/Pacasmayo/Pacas16.MOV.mp4",
+      "media/Pacasmayo/Pacas17.MOV.mp4",
+      "media/Pacasmayo/Pacas2.MOV.mp4",
+      "media/Pacasmayo/Pacas24.MOV.mp4",
+      "media/Pacasmayo/Pacas25.MOV.mp4",
+      "media/Pacasmayo/Pacas26.MOV.mp4",
+      "media/Pacasmayo/Pacas27.MOV.mp4",
+      "media/Pacasmayo/Pacas28.MOV.mp4",
+      "media/Pacasmayo/Pacas3.MOV.mp4",
+      "media/Pacasmayo/Pacas4.MOV.mp4",
+      "media/Pacasmayo/Pacas5.MOV.mp4",
+      "media/Pacasmayo/Pacas6.MOV.mp4",
+      "media/Pacasmayo/Pacas7.MOV.mp4",
+      "media/Pacasmayo/Pacas8.MOV.mp4",
+      "media/Pacasmayo/Pacas9.MOV.mp4"
+    ]
+  },
+  "_root": {
+    "photos": [
+      "media/_root/Random2.HEIC.jpg",
+      "media/_root/UNT1.JPG.jpg"
+    ],
+    "videos": [
+      "media/_root/Primera.MOV.mp4"
+    ]
+  },
+  "PrimerMesCumplido": {
+    "photos": [
+      "media/PrimerMesCumplido/IMG_6725.HEIC.jpg",
+      "media/PrimerMesCumplido/IMG_6734.HEIC.jpg",
+      "media/PrimerMesCumplido/IMG_6745.HEIC.jpg",
+      "media/PrimerMesCumplido/IMG_6748.HEIC.jpg",
+      "media/PrimerMesCumplido/IMG_6749.HEIC.jpg",
+      "media/PrimerMesCumplido/PrimerMes.HEIC.jpg",
+      "media/PrimerMesCumplido/PrimerMes1.HEIC.jpg"
+    ],
+    "videos": []
+  },
+  "Salida": {
+    "photos": [
+      "media/Salida/JACV3100.JPG.jpg",
+      "media/Salida/Salida1.JPG.jpg",
+      "media/Salida/Salida2.JPG.jpg",
+      "media/Salida/Salida3.HEIC.jpg",
+      "media/Salida/Salida4.HEIC.jpg",
+      "media/Salida/Salida5.HEIC.jpg",
+      "media/Salida/Salida6.HEIC.jpg"
+    ],
+    "videos": [
+      "media/Salida/SalidaTotal.MOV.mp4"
+    ]
+  }
+}
