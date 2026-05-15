@@ -195,7 +195,7 @@ function MediaCard({ media, onClick, idx }: { media: Media; onClick: () => void;
     >
       {media.type === 'image' ? (
         <img
-          src={'/' + media.src}
+          src={import.meta.env.BASE_URL + media.src}
           alt=""
           loading="lazy"
           className="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
@@ -203,7 +203,7 @@ function MediaCard({ media, onClick, idx }: { media: Media; onClick: () => void;
       ) : (
         <>
           <video
-            src={'/' + media.src}
+            src={import.meta.env.BASE_URL + media.src}
             preload="metadata"
             muted
             playsInline
@@ -286,10 +286,10 @@ function Lightbox({
         className="max-w-6xl max-h-[88vh] w-full flex items-center justify-center"
       >
         {m.type === 'image' ? (
-          <img src={'/' + m.src} alt="" className="max-w-full max-h-[88vh] rounded-lg shadow-2xl" />
+          <img src={import.meta.env.BASE_URL + m.src} alt="" className="max-w-full max-h-[88vh] rounded-lg shadow-2xl" />
         ) : (
           <video
-            src={'/' + m.src}
+            src={import.meta.env.BASE_URL + m.src}
             controls
             autoPlay
             playsInline
